@@ -1,0 +1,22 @@
+
+.fny_img_pointer {
+	cursor: pointer;
+	
+}
+
+.fny_left {
+	display: grid;
+	float: left;
+	left: 0px;
+	top: 400px;
+	position: fixed;
+}
+
+
+.fny_right {
+	float: right;
+	display: grid;
+	position: fixed;
+	right: 0px;
+	top: 400px;
+}	

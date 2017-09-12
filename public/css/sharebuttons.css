@@ -1,0 +1,199 @@
+/*#wpwrap{
+    background-color: #e5e5e5;
+}
+
+#wpbody-content{
+   background-color: #23282d;
+}*/
+
+.btn-telegram{color:#fff;background-color:#2AA5E0;border-color:rgba(0,0,0,0.2)}.btn-telegram:focus,.btn-telegram.focus{color:#fff;background-color:#1b88bc;border-color:rgba(0,0,0,0.2)} .btn-telegram:hover{color:#fff;background-color:#1b88bc;border-color:rgba(0,0,0,0.2)} .btn-telegram:active,.btn-telegram.active,.open>.dropdown-toggle.btn-telegram{color:#fff;background-color:#2AA5E0;border-color:rgba(0,0,0,0.2)}.btn-telegram:active:hover,.btn-telegram.active:hover,.open>.dropdown-toggle.btn-telegram:hover,.btn-telegram:active:focus,.btn-telegram.active:focus,.open>.dropdown-toggle.btn-telegram:focus,.btn-telegram:active.focus,.btn-telegram.active.focus,.open>.dropdown-toggle.btn-telegram.focus{color:#fff;background-color:#1b88bc ;border-color:rgba(0,0,0,0.2)} .btn-telegram:active,.btn-telegram.active,.open>.dropdown-toggle.btn-telegram{background-image:none} .btn-telegram.disabled,.btn-telegram[disabled],fieldset[disabled] .btn-telegram,.btn-telegram.disabled:hover,.btn-telegram[disabled]:hover,fieldset[disabled] .btn-telegram:hover,.btn-telegram.disabled:focus,.btn-telegram[disabled]:focus,fieldset[disabled] .btn-telegram:focus,.btn-telegram.disabled.focus,.btn-telegram[disabled].focus,fieldset[disabled] .btn-telegram.focus,.btn-telegram.disabled:active,.btn-telegram[disabled]:active,fieldset[disabled] .btn-telegram:active,.btn-telegram.disabled.active,.btn-telegram[disabled].active,fieldset[disabled] .btn-telegram.active{background-color:#1b88bc;border-color:rgba(0,0,0,0.2)} .btn-telegram .badge{color:#3b5998;background-color:#fff}
+
+
+#body{
+    margin-top: 20px; 
+    padding-bottom: 40px; 
+    background-color: #23282d;
+    color: #FFA54F;
+    width: 99%;
+}
+.fny-share-social-media-buttons-live{
+    margin-right: 5px;    
+}
+
+.fny-social-share-buttons-theme{
+    margin-bottom: 5px;
+}
+
+.fny-social-buttons-img {
+  width: 32px;
+  height: 32px;
+}
+
+header {
+   color: #FF4040;  
+   border-bottom: 1px solid #FF4040;
+}
+
+#fny_title{
+    margin-top: 20px;
+    background-color: #e5e5e5;
+    width: 99%;
+    height: 40px;
+}
+
+#button_list {
+  padding-bottom: 15px;
+}
+
+.button{
+    height: 30px;
+    width: 200px;
+    background-color: #6B6B6B;
+}
+
+.icon{
+    width: 200px;
+    height: 35px;
+}
+
+.not-active {  
+   pointer-events: none;
+   cursor: not-allowed;
+   opacity: 0.4;
+
+}
+
+
+.not-select {  
+   pointer-events: none;
+   cursor: not-allowed;
+   opacity: 1;
+
+}
+
+#fny-remove{
+display: none;    
+}
+
+label>input{
+    visibility: hidden;
+    position: absolute;
+}
+
+label>input:hover + div{ /* DIV STYLES */
+  cursor:pointer;
+  border:2px solid red;
+}
+label>input:checked + div{ /* (RADIO CHECKED) div styles */
+  border:5px solid green;
+}
+
+
+#fny-lefthalf{
+    border-right: 1px solid #FF4040;
+    border-left: 1px solid #FF4040;
+}
+
+.fny-half{
+    display: none;
+}
+
+#fny-submit{
+    display: none;
+}
+
+#fny_cancel{
+    display: none;
+    text-decoration: none;
+}
+#fny_cancel:hover{
+    text-decoration: none;
+}
+
+
+#fny_save{
+    display: none;
+}
+
+
+#fny-upofpic,
+#test {
+  height: 50px;
+}
+
+.fny_img{
+    position: absolute;
+    left: 70px;
+    top: 50px;
+    width: 500px;
+    margin: 5px 0 5px 0; 
+}
+
+
+/*results*/
+.fny_content{
+     display: none;   
+}
+
+
+#fny_hiddenicons{
+ background-color: azure;
+}
+
+
+.fny-share-social-media-buttons-size-buttons {
+
+  position: relative;
+  left: 45%;
+  text-align: left;
+  padding-top: : 4px ;
+
+}
+
+.fny-share-social-media-buttons-size-buttons-radio {
+    margin: 0px 5px !important;
+    vertical-align: sub !important;
+}
+
+
+
+#fny_pro_version {
+  margin: 10px;
+}
+
+
+#fny_pro_version_theme {
+  text-decoration: none;
+
+}
+
+
+#fny_space_between_buttons {
+  width: 60px;
+}
+
+.btn-digg {
+    background-color: aliceblue;
+}
+
+.btn-wordpress {
+    background-color: whitesmoke;
+}
+
+#fny_size_custom {
+    max-width: 60px;
+  display: none;
+}
+
+
+
+#fny_float{
+  display: none;
+}
+
+
+
+.fny_float_live_demo{
+  display: grid;
+  top: 50px;
+}
